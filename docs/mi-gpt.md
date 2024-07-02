@@ -50,7 +50,7 @@ docker run -d --env-file $(pwd)/.env -p 4321:3000 idootop/mi-gpt-tts:latest
 ```shell
 MiGPT-TTS: v3.0.0  by: del.wang
 
-接口地址：http://localhost:3000/7a0e9f21/api
+接口地址：http://localhost:4321/7a0e9f21/api
 
 ✅ 服务已启动...
 ```
